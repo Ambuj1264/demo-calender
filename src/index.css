@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Source Serif 4", serif;
+}
+body{
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
+  /* background-color: #f2f5f8; */
+}
+body::-webkit-scrollbar{
+  display: none;
+}
